@@ -5,3 +5,4 @@ langfuse = Langfuse(
   public_key="pk-lf-837d374f-a1ce-45dd-87d8-a165e8f08c5e",
   host="http://localhost:3000"
 )
+
